@@ -23,10 +23,44 @@
       "license_no": "91330106MA27XTK891"
     }
   ],
-  "customerBanksCombo": {
-
-  },
-
+  "customerBanksCombo": [
+    {
+      "id": "1059",
+      "bank_id": "1",
+      "bank_name": "中国建设银行",
+      "bank_name_sub": "杭州",
+      "bank_account_name": "名字",
+      "bank_card_id": "55555",
+      "bank_card_type": "0",
+      "creator_id": "1319",
+      "creator_name": "Mila",
+      "create_time": null,
+      "customer_id": "1234",
+      "customer_name": "测试偷偷1111",
+      "company_id": "2",
+      "company_name": "杭州点告网络技术有限公司",
+      "project_id": "1",
+      "project_name": "多麦CPS营销项目"
+    },
+    {
+      "id": "1061",
+      "bank_id": "1",
+      "bank_name": "中国建设银行",
+      "bank_name_sub": "下沙支行",
+      "bank_account_name": "工商银行",
+      "bank_card_id": "237834829893293444",
+      "bank_card_type": "0",
+      "creator_id": "599",
+      "creator_name": "Vivian",
+      "create_time": null,
+      "customer_id": "1236",
+      "customer_name": "测试cpt发票抬头22",
+      "company_id": "6",
+      "company_name": "杭州多麦电子商务股份有限公司",
+      "project_id": "1",
+      "project_name": "多麦CPS营销项目"
+    }
+  ],
   "list": [
     {
       "id": "5364",
