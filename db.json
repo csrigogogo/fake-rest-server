@@ -9,6 +9,7 @@
       "customer_type": 2,
       "address": "12水水水水",
       "phone": 159566565,
+      "bank_id": "1059",
       "license_no": "sf1234567891234567"
     },
     {
@@ -20,6 +21,7 @@
       "customer_type": 2,
       "address": "东谷创业园2",
       "phone": 15988857348,
+      "bank_id": "1061",
       "license_no": "91330106MA27XTK891"
     }
   ],
